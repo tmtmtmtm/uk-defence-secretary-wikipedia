@@ -1,17 +1,16 @@
 [
   {
     "item": {
-      "value": "Q334282",
-      "label": "Peter Thorneycroft, Baron Thorneycroft"
+      "value": "Q333019",
+      "label": "Thomas Inskip, 1st Viscount Caldecote"
     },
-    "statement": "Q334282$BFAFDF3F-7AFD-45E5-8692-A697F88D84EC"
-  },
-  {
-    "item": {
-      "value": "Q16658294",
-      "label": "Duncan Anderson"
+    "replacedBy": {
+      "value": "Q2291802",
+      "label": "Ernle Chatfield, 1st Baron Chatfield"
     },
-    "statement": "Q16658294$84a74ba8-a4c7-41b9-a539-f5900120b6e1"
+    "statement": "Q333019$904df26e-4471-5c21-716a-a9721fa02273",
+    "start": "1936-03-13T00:00:00Z",
+    "end": "1939-01-29T00:00:00Z"
   },
   {
     "item": {
@@ -36,12 +35,12 @@
       "label": "Winston Churchill"
     },
     "replaces": {
-      "value": "Q333582",
-      "label": "Manny Shinwell"
+      "value": "Q2291802",
+      "label": "Ernle Chatfield, 1st Baron Chatfield"
     },
     "replacedBy": {
-      "value": "Q39168",
-      "label": "Harold Alexander, 1st Earl Alexander of Tunis"
+      "value": "Q129006",
+      "label": "Clement Attlee"
     },
     "statement": "Q8016$d74f4443-4aa2-e92a-aa0f-007b81355216",
     "start": "1940-05-10T00:00:00Z",
@@ -376,8 +375,8 @@
       "label": "John Nott"
     },
     "replaces": {
-      "value": "Q5482238",
-      "label": "Francis Pym"
+      "value": "Q332759",
+      "label": "Francis Pym, Baron Pym"
     },
     "replacedBy": {
       "value": "Q332314",
@@ -436,7 +435,7 @@
     },
     "statement": "Q333312$F2B4BD2C-459F-442A-BCEE-EDC08F0B1D47",
     "start": "1989-07-24T00:00:00Z",
-    "end": "1992-04-11T00:00:00Z"
+    "end": "1992-04-10T00:00:00Z"
   },
   {
     "item": {
