@@ -15,27 +15,6 @@
   },
   {
     "item": {
-      "value": "Q333700",
-      "label": "Roy Mason"
-    },
-    "statement": "Q333700$D5312C6A-DCBF-431E-AA4B-2B9B3D8D23FF"
-  },
-  {
-    "item": {
-      "value": "Q334345",
-      "label": "Harold Watkinson"
-    },
-    "statement": "Q334345$7F51C857-5962-414E-872E-3F06CCEB4D4C"
-  },
-  {
-    "item": {
-      "value": "Q334362",
-      "label": "Fred Mulley"
-    },
-    "statement": "Q334362$9FD11B9A-61D8-47C4-998C-64A372B464E2"
-  },
-  {
-    "item": {
       "value": "Q2291802",
       "label": "Ernle Chatfield, 1st Baron Chatfield"
     },
@@ -240,6 +219,23 @@
   },
   {
     "item": {
+      "value": "Q334345",
+      "label": "Harold Watkinson"
+    },
+    "replaces": {
+      "value": "Q203129",
+      "label": "Duncan Sandys"
+    },
+    "replacedBy": {
+      "value": "Q334282",
+      "label": "Peter Thorneycroft, Baron Thorneycroft"
+    },
+    "statement": "Q334345$7F51C857-5962-414E-872E-3F06CCEB4D4C",
+    "start": "1959-10-14T00:00:00Z",
+    "end": "1962-07-13T00:00:00Z"
+  },
+  {
+    "item": {
       "value": "Q334282",
       "label": "Peter Thorneycroft, Baron Thorneycroft"
     },
@@ -322,6 +318,40 @@
     "statement": "Q333362$1D15E74C-0CD0-402F-BFD4-6C61F4BD0312",
     "start": "1974-01-08T00:00:00Z",
     "end": "1974-03-04T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333700",
+      "label": "Roy Mason"
+    },
+    "replaces": {
+      "value": "Q333362",
+      "label": "Ian Gilmour, Baron Gilmour of Craigmillar"
+    },
+    "replacedBy": {
+      "value": "Q334362",
+      "label": "Fred Mulley"
+    },
+    "statement": "Q333700$D5312C6A-DCBF-431E-AA4B-2B9B3D8D23FF",
+    "start": "1974-03-05T00:00:00Z",
+    "end": "1976-09-10T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q334362",
+      "label": "Fred Mulley"
+    },
+    "replaces": {
+      "value": "Q333700",
+      "label": "Roy Mason"
+    },
+    "replacedBy": {
+      "value": "Q332759",
+      "label": "Francis Pym, Baron Pym"
+    },
+    "statement": "Q334362$9FD11B9A-61D8-47C4-998C-64A372B464E2",
+    "start": "1976-09-10T00:00:00Z",
+    "end": "1979-05-04T00:00:00Z"
   },
   {
     "item": {
@@ -633,6 +663,10 @@
     "item": {
       "value": "Q263166",
       "label": "Ben Wallace"
+    },
+    "replaces": {
+      "value": "Q580464",
+      "label": "Penny Mordaunt"
     },
     "statement": "Q263166$7993fb77-429a-d8e9-7979-00664614fb0a",
     "start": "2019-07-24T00:00:00Z"
