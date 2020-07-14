@@ -2,7 +2,7 @@
 # frozen_string_literal: true
 
 # Check a Wikipedia scraper outfile against what's currently in
-# Wikidata, creating wikibase-cli commands for any additions to make.
+# Wikidata, creating wikibase-cli commands for any qualifiers to add.
 
 require 'csv'
 require 'pry'
