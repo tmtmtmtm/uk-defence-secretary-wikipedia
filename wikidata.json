@@ -36,6 +36,23 @@
   },
   {
     "item": {
+      "value": "Q2291802",
+      "label": "Ernle Chatfield, 1st Baron Chatfield"
+    },
+    "replaces": {
+      "value": "Q333019",
+      "label": "Thomas Inskip, 1st Viscount Caldecote"
+    },
+    "replacedBy": {
+      "value": "Q8016",
+      "label": "Winston Churchill"
+    },
+    "statement": "Q2291802$430BC2BE-E2B0-4F07-A31D-F6C7B44D9F16",
+    "start": "1939-01-29T00:00:00Z",
+    "end": "1940-04-03T00:00:00Z"
+  },
+  {
+    "item": {
       "value": "Q8016",
       "label": "Winston Churchill"
     },
@@ -50,6 +67,23 @@
     "statement": "Q8016$d74f4443-4aa2-e92a-aa0f-007b81355216",
     "start": "1940-05-10T00:00:00Z",
     "end": "1945-07-26T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q129006",
+      "label": "Clement Attlee"
+    },
+    "replaces": {
+      "value": "Q8016",
+      "label": "Winston Churchill"
+    },
+    "replacedBy": {
+      "value": "Q964833",
+      "label": "A. V. Alexander, 1st Earl Alexander of Hillsborough"
+    },
+    "statement": "Q129006$F561BAF4-079D-4843-BBF7-3FB0F4A215C7",
+    "start": "1945-07-27T00:00:00Z",
+    "end": "1946-12-20T00:00:00Z"
   },
   {
     "item": {
@@ -104,6 +138,40 @@
   },
   {
     "item": {
+      "value": "Q39168",
+      "label": "Harold Alexander, 1st Earl Alexander of Tunis"
+    },
+    "replaces": {
+      "value": "Q8016",
+      "label": "Winston Churchill"
+    },
+    "replacedBy": {
+      "value": "Q128985",
+      "label": "Harold Macmillan"
+    },
+    "statement": "Q39168$0EBAC9E3-2DB8-412D-A79F-BE6FF302B213",
+    "start": "1952-03-01T00:00:00Z",
+    "end": "1954-10-18T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q128985",
+      "label": "Harold Macmillan"
+    },
+    "replaces": {
+      "value": "Q39168",
+      "label": "Harold Alexander, 1st Earl Alexander of Tunis"
+    },
+    "replacedBy": {
+      "value": "Q333080",
+      "label": "Selwyn Lloyd"
+    },
+    "statement": "Q128985$E97D625D-F9F2-42E8-BF9A-55CB45FA4948",
+    "start": "1954-10-18T00:00:00Z",
+    "end": "1955-04-07T00:00:00Z"
+  },
+  {
+    "item": {
       "value": "Q333080",
       "label": "Selwyn Lloyd"
     },
@@ -121,6 +189,40 @@
   },
   {
     "item": {
+      "value": "Q332995",
+      "label": "Walter Monckton, 1st Viscount Monckton of Brenchley"
+    },
+    "replaces": {
+      "value": "Q333080",
+      "label": "Selwyn Lloyd"
+    },
+    "replacedBy": {
+      "value": "Q333766",
+      "label": "Antony Head, 1st Viscount Head"
+    },
+    "statement": "Q332995$133790B3-E33E-403D-B803-9A5AED5ACBC5",
+    "start": "1955-12-20T00:00:00Z",
+    "end": "1956-10-18T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333766",
+      "label": "Antony Head, 1st Viscount Head"
+    },
+    "replaces": {
+      "value": "Q332995",
+      "label": "Walter Monckton, 1st Viscount Monckton of Brenchley"
+    },
+    "replacedBy": {
+      "value": "Q203129",
+      "label": "Duncan Sandys"
+    },
+    "statement": "Q333766$2F2E8EC9-83C3-4EC4-8EAA-17B71641DB21",
+    "start": "1956-10-18T00:00:00Z",
+    "end": "1957-01-09T00:00:00Z"
+  },
+  {
+    "item": {
       "value": "Q203129",
       "label": "Duncan Sandys"
     },
@@ -135,6 +237,40 @@
     "statement": "Q203129$1348CDFB-91A3-471D-A101-4ED66CA3B45B",
     "start": "1957-01-14T00:00:00Z",
     "end": "1959-10-14T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q334282",
+      "label": "Peter Thorneycroft, Baron Thorneycroft"
+    },
+    "replaces": {
+      "value": "Q334345",
+      "label": "Harold Watkinson"
+    },
+    "replacedBy": {
+      "value": "Q334282",
+      "label": "Peter Thorneycroft, Baron Thorneycroft"
+    },
+    "statement": "Q334282$9B26943A-F287-4CBF-86AB-D0B15D573486",
+    "start": "1962-07-13T00:00:00Z",
+    "end": "1964-04-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q334282",
+      "label": "Peter Thorneycroft, Baron Thorneycroft"
+    },
+    "replaces": {
+      "value": "Q334282",
+      "label": "Peter Thorneycroft, Baron Thorneycroft"
+    },
+    "replacedBy": {
+      "value": "Q332360",
+      "label": "Denis Healey"
+    },
+    "statement": "Q334282$889D268C-9E1F-4B4F-B0DB-06FCF04480B1",
+    "start": "1964-04-01T00:00:00Z",
+    "end": "1964-10-16T00:00:00Z"
   },
   {
     "item": {
@@ -475,6 +611,23 @@
     "statement": "Q262409$c7c546e0-4962-7940-c08e-7cef20598383",
     "start": "2017-11-02T00:00:00Z",
     "end": "2019-05-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q580464",
+      "label": "Penny Mordaunt"
+    },
+    "replaces": {
+      "value": "Q262409",
+      "label": "Gavin Williamson"
+    },
+    "replacedBy": {
+      "value": "Q263166",
+      "label": "Ben Wallace"
+    },
+    "statement": "Q580464$C945853B-059D-4092-9F77-5A4C0A6602EE",
+    "start": "2019-05-01T00:00:00Z",
+    "end": "2019-07-24T00:00:00Z"
   },
   {
     "item": {
