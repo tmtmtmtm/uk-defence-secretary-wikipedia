@@ -20,14 +20,14 @@ wptally = wikipedia.data.map { |r| r[:id] }.tally
 wdtally = wikidata.data.map { |r| r[:id] }.tally
 
 wikipedia.data.each do |wp|
-  next unless wptally[wp[:id]] > wdtally[wp[:id]]
+  next unless wptally[wp[:id]] > wdtally.fetch(wp[:id], 0)
   existing = wikidata.find(wp[:id])
 
   # Skip this entry if anything in WD has the same start/end date
   # TODO: check for anything in an overlapping range
   next if existing.any? { |wd| (wp[:P580] == wd[:P580]) || (wp[:P582] == wd[:P582]) }
 
-  warn "\n#{wp[:name]}: WP: #{wptally[wp[:id]]} // WD: #{wdtally[wp[:id]]}"
+  warn "\n#{wp[:name]}: WP: #{wptally[wp[:id]]} // WD: #{wdtally.fetch(wp[:id], 0)}"
   existing.each do |wd|
     warn "    WD has #{wd[:P580]} – #{wd[:P582]}"
   end
